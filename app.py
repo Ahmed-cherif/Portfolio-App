@@ -25,18 +25,18 @@ SOCIAL_MEDIA = {
 
 }
 PROJECTS = {
-    "🏆 Ask multiple pdfs": "https://github.com/Ahmed-cherif/Ask-multiple-pdfs",
+    "🏆 Ask multiple pdfs using Longchain": "https://github.com/Ahmed-cherif/Ask-multiple-pdfs",
     "🏆 gRPC Text Summarization": "https://github.com/Ahmed-cherif/gRPC-Text-Summarization-Demo",
-    "🏆 Violence app detector ": "https://github.com/Ahmed-cherif/Violence_app_detector",
-    "🏆 -Coronavirus-tracker-app-with-Spring-Boot-and-Java": "https://github.com/Ahmed-cherif/-Coronavirus-tracker-app-with-Spring-Boot-and-Java",
-    "🏆 -Face-Sentiment-Detection-with-Raspberry-Pi ": "https://github.com/Ahmed-cherif/-Face-Sentiment-Detection-with-Raspberry-Pi",
-    "🏆 Web-Direction-Detection-React-App ": "https://github.com/Ahmed-cherif/Web-Direction-Detection-React-App",
-    "🏆 Sentiment-Analysis-Django-App ": "https://github.com/Ahmed-cherif/Sentiment-Analysis-Django-App",
-    "🏆 -Vehicle-Detect-Count-APP ": "https://github.com/Ahmed-cherif/-Vehicle-Detect-Count-APP",
-    "🏆 -Plant-Disease-Prediction-APP ": "https://github.com/Ahmed-cherif/-Plant-Disease-Prediction-APP",
-    "🏆 Text-Extraction-From-Images-Application ": "https://github.com/Ahmed-cherif/Text-Extraction-From-Images-Application",
-    "🏆 Design-and-development-project-PAN-Card-Tampering-Detection ": "https://github.com/Ahmed-cherif/Design-and-development-project-PAN-Card-Tampering-Detection",
-    "🏆 Bird-species-flask-app ": "https://github.com/Ahmed-cherif/Bird-species-flask-app",
+    "🏆 Application to prevent medical violence ": "https://github.com/Ahmed-cherif/Violence_app_detector",
+    "🏆 Coronavirus tracker app with Spring Boot and Java": "https://github.com/Ahmed-cherif/-Coronavirus-tracker-app-with-Spring-Boot-and-Java",
+    "🏆 Face Sentiment Detection with Raspberry Pi ": "https://github.com/Ahmed-cherif/-Face-Sentiment-Detection-with-Raspberry-Pi",
+    "🏆 Web Direction Detection React App ": "https://github.com/Ahmed-cherif/Web-Direction-Detection-React-App",
+    "🏆 Sentiment Analysis Django App ": "https://github.com/Ahmed-cherif/Sentiment-Analysis-Django-App",
+    "🏆 Vehicle Detect Count APP ": "https://github.com/Ahmed-cherif/-Vehicle-Detect-Count-APP",
+    "🏆 Plant Disease Prediction APP ": "https://github.com/Ahmed-cherif/-Plant-Disease-Prediction-APP",
+    "🏆 Text Extraction From Images Application ": "https://github.com/Ahmed-cherif/Text-Extraction-From-Images-Application",
+    "🏆 Design and development of PAN Card Tampering detector ": "https://github.com/Ahmed-cherif/Design-and-development-project-PAN-Card-Tampering-Detection",
+    "🏆 Bird species flask App ": "https://github.com/Ahmed-cherif/Bird-species-flask-app",
 }
 
 
@@ -122,7 +122,8 @@ st.write(
     """
     Description: 
     
-    Developed and managed a comprehensive database for a 
+    Developed an application to prevent medical violence
+    and managed a comprehensive database for a 
     cutting-edge Medical Text Classification Application, 
     leveraging advanced Natural Language Processing (NLP) techniques. 
     The application automatically categorizes medical texts
