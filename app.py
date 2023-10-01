@@ -132,7 +132,7 @@ st.write(
     It serves as a valuable tool for enhancing healthcare communication and awareness.
 
 - ► Developing an application to prevent medical violence
-- ► Successfully tested and implemented various NLP models to optimize text classification accuracy.
+- ► Successfully tested and implemented various NLP models to optimize the accuracy.
 - ► Designed and maintained a well-organized database crucial for model training and evaluation.
 - ► Collaborated in the creation of a user-friendly interface, ensuring accessibility to a wide audience.
 - ► Contributed to the mission of improving healthcare transparency and understanding.
