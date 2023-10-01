@@ -141,7 +141,7 @@ st.write(
 
 
 
-# --- JOB 3
+# --- JOB 2
 st.write('\n')
 st.write("🚧", "**Software Engineer | Mosofty**")
 st.write("Tunis ,Tunisia")
@@ -175,8 +175,8 @@ st.write(
 """
 )
 st.write('\n')
-# --- JOB 2
-st.write("🚧", "**Data Scientist | **Centre de recherche en numérique de Sfax**")
+# --- JOB 3
+st.write("🚧", "Data Scientist | Centre de recherche en numérique de Sfax")
 st.write("Sfax ,Tunisia")
 st.write("15/07/2021 - 30/09/2021")
 st.write(
