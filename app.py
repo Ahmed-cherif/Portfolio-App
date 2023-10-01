@@ -139,22 +139,7 @@ st.write(
 """
 )
 
-st.write('\n')
-# --- JOB 2
-st.write("🚧", "**Data Scientist | **Centre de recherche en numérique de Sfax**")
-st.write("Sfax ,Tunisia")
-st.write("15/07/2021 - 30/09/2021")
-st.write(
-    """
-    Description: 
-    
-    Sign Language Detection using ACTION RECOGNITION with Python
 
-- ► The proposed internship project aims to develop a system that will recognize static sign 
-gestures and convert them into corresponding
-words.
-"""
-)
 
 # --- JOB 3
 st.write('\n')
@@ -189,7 +174,22 @@ st.write(
 - ► Extracted structured data from CV documents in various formats.
 """
 )
+st.write('\n')
+# --- JOB 2
+st.write("🚧", "**Data Scientist | **Centre de recherche en numérique de Sfax**")
+st.write("Sfax ,Tunisia")
+st.write("15/07/2021 - 30/09/2021")
+st.write(
+    """
+    Description: 
+    
+    Sign Language Detection using ACTION RECOGNITION with Python
 
+- ► The proposed internship project aims to develop a system that will recognize static sign 
+gestures and convert them into corresponding
+words.
+"""
+)
 st.write('\n')
 # --- Projects & Accomplishments ---
 st.write('\n')
