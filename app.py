@@ -116,7 +116,7 @@ st.write("---")
 st.write('\n')
 # --- JOB 1
 st.write("🚧", "**Software Engineer | Fysali SAS Bio-incubateur Eurasanté France**")
-st.write("Lille France")
+st.write("Lille, France")
 st.write("19/7/2023 - 20/09/2023")
 st.write(
     """
@@ -144,7 +144,7 @@ st.write(
 # --- JOB 2
 st.write('\n')
 st.write("🚧", "**Software Engineer | Mosofty**")
-st.write("Tunis ,Tunisia")
+st.write("Tunis, Tunisia")
 st.write("01/07/2023 - 30/08/2023")
 st.write(
     """
@@ -177,7 +177,7 @@ st.write(
 st.write('\n')
 # --- JOB 3
 st.write("🚧", "Data Scientist | Centre de recherche en numérique de Sfax")
-st.write("Sfax ,Tunisia")
+st.write("Sfax, Tunisia")
 st.write("15/07/2021 - 30/09/2021")
 st.write(
     """
