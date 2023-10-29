@@ -30,7 +30,6 @@ PROJECTS = {
     "🏆 Application to prevent medical violence ": "https://github.com/Ahmed-cherif/Violence_app_detector",
     "🏆 Coronavirus tracker app with Spring Boot and Java": "https://github.com/Ahmed-cherif/-Coronavirus-tracker-app-with-Spring-Boot-and-Java",
     "🏆 Face Sentiment Detection with Raspberry Pi ": "https://github.com/Ahmed-cherif/-Face-Sentiment-Detection-with-Raspberry-Pi",
-    "🏆 Web Direction Detection React App ": "https://github.com/Ahmed-cherif/Web-Direction-Detection-React-App",
     "🏆 Sentiment Analysis Django App ": "https://github.com/Ahmed-cherif/Sentiment-Analysis-Django-App",
     "🏆 Vehicle Detect Count APP ": "https://github.com/Ahmed-cherif/-Vehicle-Detect-Count-APP",
     "🏆 Plant Disease Prediction APP ": "https://github.com/Ahmed-cherif/-Plant-Disease-Prediction-APP",
