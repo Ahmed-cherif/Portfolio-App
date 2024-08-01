@@ -85,7 +85,7 @@ st.write('\n')
 st.write(
     """
 - ✔️ Preparatory Institute for Engineering Studies (ranked 61 among 1200 candidates) , IPEIS 2 years
-- ✔️ National School of Computer Science Manouba, Tunisia engineering diploma 3 years
+- ✔️ National School of Computer Science ENSI, Computer Science engineering diploma
 - ✔️ Baccalaureate Diploma in mathematical Science
 """
 )
