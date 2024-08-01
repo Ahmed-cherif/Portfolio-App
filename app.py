@@ -124,8 +124,10 @@ st.write(
     """
     Description: 
     
-    I have developed an advanced real-time lip-reading system that translates visual speech cues into audible speech.
-    This system processes live video feeds to generate precise text predictions, which are then synthesized into speech,
+    I have developed an advanced real-time lip-reading system that translates 
+    visual speech cues into audible speech.
+    This system processes live video feeds to generate precise text predictions,
+    which are then synthesized into speech,
     enhancing communication for individuals.
 
 - ►Developed a novel real-time lip-reading system using CTC, TimeDistributed, 3DCNN and Bi-LSTM networks.
