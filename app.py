@@ -113,7 +113,7 @@ st.write(
 
 # --- WORK HISTORY ---
 st.write('\n')
-st.subheader("Summer Internships")
+st.subheader("Experience And Internships")
 st.write("---")
 st.write('\n')
 
