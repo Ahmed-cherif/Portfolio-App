@@ -20,7 +20,7 @@ Software Engineer  Embedded Software Engineer  Data scientist  École nationale 
 """
 EMAIL = "ahmed.cherif@ensi-uma.tn"
 SOCIAL_MEDIA = {
-    "LinkedIn": "https://www.linkedin.com/in/ahmed-cherif-061b06148/",
+    "LinkedIn": "https://www.linkedin.com/in/ahmed-cherif-%F0%9F%87%B5%F0%9F%87%B8-061b06148/",
     "GitHub": "https://github.com/Ahmed-cherif",
 
 }
