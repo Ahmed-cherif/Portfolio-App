@@ -25,6 +25,10 @@ SOCIAL_MEDIA = {
 
 }
 PROJECTS = {
+    "🏆 Google Cloud Data Pipeline Analytics Project": "https://github.com/Ahmed-cherif/sales-data-pipeline-project",
+    "🏆 Cricket Statistics Pipeline with Google Cloud Services": "https://github.com/Ahmed-cherif/cricket-stat-data-engineering-project",
+    "🏆 TCP Chat Application": "https://github.com/Ahmed-cherif/Socket-Client",
+    "🏆 Motion Detection System Using Raspberry Pi": "https://github.com/Ahmed-cherif/-Motion-Detection-System-Using-Raspberry-Pi",
     "🏆 Ask multiple pdfs using Longchain": "https://github.com/Ahmed-cherif/Ask-multiple-pdfs",
     "🏆 gRPC Text Summarization": "https://github.com/Ahmed-cherif/gRPC-Text-Summarization-Demo",
     "🏆 Application to prevent medical violence ": "https://github.com/Ahmed-cherif/Violence_app_detector",
@@ -93,17 +97,20 @@ st.subheader("Hard Skills")
 st.write('\n')
 st.write(
     """
-- 👩‍💻 Programming: Python, C, C++, JavaScript, Php, Mips, Java, Vhdl, R, Matlab
+- 👩‍💻 Programming: Python, C, C++, Mips, Java, VHDL, R
 
-- 📊 Frameworks and Libraries: PyTorch, TensorFlow, Keras, Numpy, Pandas, NLTK, Opencv, Seaborn, Matplotlib, 
-        FLASK,Stm32, Freertos, Rpc, Sql, Power Bi, Excel, Grpc, CI/CD, Docker, kubernetes, 
-        Jenkins, Aws, Ansible, Git-Github , SSh
+- 📊 Frameworks ,Tools and Libraries: PyTorch, TensorFlow, Keras, NumPy, Pandas, NLTK, OpenCV, Seaborn, Matplotlib, Flask, Streamlit, Yocto, SQL
+NoSQL, Power Bi, Docker, Kubernetes, Docker Compose, GCP, Gitlab, TCP/IP, Networking, SPI, I2C, UART, Terraform, Spark, Hadoop,
+Micro-services, Script Shell, Kubeflow, Vertex AI, Gcp Bucket, Dataflow, Cloud Composer, Looker, Cloud function, Apache Airflow,
+BigQuery
 
-- 📚 Soft Skills:: Leadership, Event Management, Writing, Public Speaking, Time Management, 
-        Communication
+- 📊 Cartes: STM32, Raspberry pi, Esp32, Arduino
 
-- 🗄️ Skills:: Computer Vision, Natural Language Processing, Deep Learning, Machine Learning, Langchain ,
-        Time series forecasting, Reinforcement Learning, Embedded software, Software engineering
+- 📚 Soft Skills: Leadership, Project Management, Writing, Team Management, Communication, Coaching
+
+- 🗄️ Skills: Computer Vision, Classification, Segmentation, Prediction, Natural Language Processing, Deep Learning, Machine
+Learning, Time series forecasting, Embedded Linux, Software Engineering, SCRUM
+
 """
 )
 
@@ -113,6 +120,35 @@ st.write('\n')
 st.subheader("Summer Internships")
 st.write("---")
 st.write('\n')
+
+st.write("🚧", "**• R&D Engineer | Sofrecom Tunisia**")
+st.write("Lille, France")
+st.write("19/7/2023 - 20/09/2023")
+st.write(
+    """
+    Description: 
+    
+    I have developed an advanced real-time lip-reading system that translates visual speech cues into audible speech. This system processes
+live video feeds to generate precise text predictions, which are then synthesized into speech, enhancing communication for individuals.
+
+- ►Developed a novel real-time lip-reading system using CTC, TimeDistributed, 3DCNN and Bi-LSTM networks.
+- ►Achieved high accuracy with a Character Error Rate (CER) of 8.15% and Character Accuracy (CA) of 91.85% on the GRID dataset.
+- ►Implemented a deployment strategy using Flask to enable real-time lip reading through a web application.
+- ►Achieved text predictions and synthesized speech by normalizing image data, using CTC decoding, correcting text with TextBlob.
+- ►Integrated TensorFlow and MediaPipe to capture and process lip movements.
+- ►Constructed the DATAV1 dataset with more than 600 files for initial model training and evaluation.
+- ►Conducted a comprehensive analysis of deep learning model architectures for lip reading using the DATAV1 dataset.
+- ►Explored and evaluated multiple architectures like ResBlock3D, Conv3D, Conv2D, TimeDistributed, attention mechanism, and LSTM.
+- ►Identified the optimal architecture achieving a peak validation accuracy of 98.18%.
+- ►Contributed insights into effective model selection for accurate lip-reading performance.
+- ►Constructed the DataV2 dataset with more than 4000 files for enhanced model training and evaluation.
+- ► Designed a new lip-reading model architecture incorporating 3D CNN, Bi-LSTM, TimeDistributed, and SoftMax layers.
+- ► Developed a real-time lip-reading application with a video interface displaying synchronized subtitles and predictions.
+- ► Implemented a chatbot using Voice flow and trained it with GPT-3.5 for user interaction and assistance
+- ► Designed and implemented a Video Metting Page
+- ► converting text to speech with Google Text-to-Speech (gTTS).
+"""
+)
 # --- JOB 1
 st.write("🚧", "**Software Engineer | Fysali SAS Bio-incubateur Eurasanté France**")
 st.write("Lille, France")
