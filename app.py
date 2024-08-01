@@ -219,9 +219,7 @@ st.write(
     
     Sign Language Detection using ACTION RECOGNITION with Python
 
-- ► The proposed internship project aims to develop a system that will recognize static sign 
-gestures and convert them into corresponding
-words.
+- ► The proposed internship project aims to develop a system that will recognize static sign gestures and convert them into corresponding words.
 """
 )
 st.write('\n')
