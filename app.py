@@ -105,8 +105,7 @@ st.write(
 
 - 📚 Soft Skills: Leadership, Project Management, Writing, Team Management, Communication, Coaching
 
-- 🗄️ Skills: Computer Vision, Classification, Segmentation, Prediction, Natural Language Processing, Deep Learning, Machine
-Learning, Time series forecasting, Embedded Linux, Software Engineering, SCRUM
+- 🗄️ Skills: Computer Vision, Classification, Segmentation, Prediction, Natural Language Processing, Deep Learning, Machine Learning, Time series forecasting, Embedded Linux, Software Engineering, SCRUM
 
 """
 )
@@ -146,6 +145,7 @@ live video feeds to generate precise text predictions, which are then synthesize
 - ► converting text to speech with Google Text-to-Speech (gTTS).
 """
 )
+st.write('\n')
 # --- JOB 1
 st.write("🚧", "**Software Engineer | Fysali SAS Bio-incubateur Eurasanté France**")
 st.write("Lille, France")
