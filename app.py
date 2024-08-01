@@ -99,10 +99,7 @@ st.write(
     """
 - 👩‍💻 Programming: Python, C, C++, Mips, Java, VHDL, R
 
-- 📊 Frameworks ,Tools and Libraries: PyTorch, TensorFlow, Keras, NumPy, Pandas, NLTK, OpenCV, Seaborn, Matplotlib, Flask, Streamlit, Yocto, SQL
-NoSQL, Power Bi, Docker, Kubernetes, Docker Compose, GCP, Gitlab, TCP/IP, Networking, SPI, I2C, UART, Terraform, Spark, Hadoop,
-Micro-services, Script Shell, Kubeflow, Vertex AI, Gcp Bucket, Dataflow, Cloud Composer, Looker, Cloud function, Apache Airflow,
-BigQuery
+- 📊 Frameworks ,Tools and Libraries: PyTorch, TensorFlow, Keras, NumPy, Pandas, NLTK, OpenCV, Seaborn, Matplotlib, Flask, Streamlit, Yocto, SQL, NoSQL, Power Bi, Docker, Kubernetes, Docker Compose, GCP, Gitlab, TCP/IP, Networking, SPI, I2C, UART, Terraform, Spark, Hadoop, Micro-services, Script Shell, Kubeflow, Vertex AI, Gcp Bucket, Dataflow, Cloud Composer, Looker, Cloud function, Apache Airflow, BigQuery
 
 - 📊 Cartes: STM32, Raspberry pi, Esp32, Arduino
 
