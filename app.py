@@ -119,8 +119,8 @@ st.write("---")
 st.write('\n')
 
 st.write("🚧", "**• R&D Engineer | Sofrecom Tunisia**")
-st.write("Lille, France")
-st.write("19/7/2023 - 20/09/2023")
+st.write("Sfax, Tunis")
+st.write("05/2/2024 - 03/08/2024")
 st.write(
     """
     Description: 
