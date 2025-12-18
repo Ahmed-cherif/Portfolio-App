@@ -16,7 +16,7 @@ PAGE_TITLE = "Digital CV | AHMED CHERIF"
 PAGE_ICON = ":wave:"
 NAME = "AHMED CHERIF"
 DESCRIPTION = """
-Software Engineer  Embedded Software Engineer  Data scientist  École nationale de science d'informatique de Tunis ENSI
+Data scientist Sofrecom Tunise 
 """
 EMAIL = "ahmed.cherif@ensi-uma.tn"
 SOCIAL_MEDIA = {
@@ -117,9 +117,9 @@ st.subheader("Experience And Internships")
 st.write("---")
 st.write('\n')
 
-st.write("🚧", "**• R&D Engineer | Sofrecom Tunisia**")
+st.write("🚧", "**• Data Scientist | Sofrecom Tunisia**")
 st.write("Sfax, Tunis")
-st.write("05/2/2024 - 03/08/2024")
+st.write("05/2/2024 - Now")
 st.write(
     """
     Description: 
